@@ -1,0 +1,58 @@
+.money-icon-image {
+  height: 100px;
+  width: 100px;
+}
+
+.money-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.money-card-1 {
+  display: flex;
+  border-style: solid;
+  justify-content: space-around;
+  width: 280px;
+  padding: 10px;
+  background-color: #ecfccb;
+  border-color: #84cc16;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+.money-card-2 {
+  display: flex;
+  border-style: solid;
+  justify-content: space-around;
+  width: 280px;
+  padding: 10px;
+  background-color: #cffafe;
+  border-color: #06b6d4;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+.money-card-3 {
+  display: flex;
+  border-style: solid;
+  justify-content: space-around;
+  width: 280px;
+  padding: 10px;
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+.balance-style {
+  color: #475569;
+  font-size: 18px;
+  font-family: Roboto;
+}
+
+.rs-style {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: Roboto;
+}
